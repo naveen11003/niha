@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "demochowda"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
